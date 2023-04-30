@@ -1,1 +1,11 @@
-# trab-2-ia
+# O Caso do Vestível Controlador - Fase n
+
+Contexto: A nova fase proposta se insere após a Fase 12, em que o protagonista trabalhou em equipe com outros integrantes da Liga do Pensamento Computacional. Na Fase 13, o protagonista deve lidar com um problema computacional relacionado à Inteligência Artificial que ameaça a liberdade das pessoas no Reino do Politécnico.
+
+Problema: A Liga do Pensamento Computacional descobriu que uma empresa, financiada pelas elites opressoras, está desenvolvendo um algoritmo de reconhecimento facial avançado que pode identificar as pessoas mesmo com mudanças significativas em sua aparência. O problema é que esse algoritmo pode ser usado para rastrear e monitorar as atividades das pessoas, impedindo qualquer tentativa de lutar contra o sistema infocrático.
+
+Texto: Após vencer a Fase 12 e subir de nível na Liga do Pensamento Computacional, você é convocado para enfrentar um novo desafio. A Liga descobriu que uma empresa está desenvolvendo um algoritmo de reconhecimento facial avançado, financiado pelas elites opressoras. Esse algoritmo pode identificar as pessoas mesmo com mudanças significativas em sua aparência e representa uma ameaça à liberdade das pessoas. Cabe a você, como membro da Liga, encontrar uma maneira de impedir que esse algoritmo seja utilizado pelas elites.
+
+Solução trivial: Uma solução trivial para o problema seria tentar impedir o financiamento da empresa responsável pelo desenvolvimento do algoritmo, pressionando as instituições financeiras e políticas envolvidas. Outra solução seria tentar destruir os servidores que armazenam o algoritmo, o que exigiria uma invasão física ao prédio da empresa.
+
+Solução esperta: Uma solução mais eficiente seria desenvolver um algoritmo de camuflagem facial que pudesse ser usado pelas pessoas para evitar serem detectadas pelo algoritmo de reconhecimento facial avançado. Esse algoritmo usaria técnicas de deep learning para aprender a identificar os pontos de interesse no rosto das pessoas e aplicar distorções para confundir o algoritmo de reconhecimento facial. Esse algoritmo poderia ser desenvolvido com a colaboração de outras pessoas na Liga do Pensamento Computacional e seria distribuído gratuitamente para as pessoas em todo o Reino do Politécnico, ajudando a manter sua liberdade e privacidade.
