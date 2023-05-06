@@ -1,11 +1,11 @@
-# O Caso do Vestível Controlador - Fase n
+# O Caso do Vestível Controlador - Fase 1,5
 
-Contexto: A nova fase proposta se insere após a Fase 12, em que o protagonista trabalhou em equipe com outros integrantes da Liga do Pensamento Computacional. Na Fase 13, o protagonista deve lidar com um problema computacional relacionado à Inteligência Artificial que ameaça a liberdade das pessoas no Reino do Politécnico.
+1) Contexto: Após o jogador entrar no politecnico, passando da fase 1, ele passa por uma nova fase, anterior a fase 2, a fase 1,5. Essa fase se passa no hall de entrada do Departamento de informática, para receber as dicas da Ressurgência quer precisa saber se o jogador é confiavel mesmo, então ele fazem um teste, a fase 1,5.
 
-Problema: A Liga do Pensamento Computacional descobriu que uma empresa, financiada pelas elites opressoras, está desenvolvendo um algoritmo de reconhecimento facial avançado que pode identificar as pessoas mesmo com mudanças significativas em sua aparência. O problema é que esse algoritmo pode ser usado para rastrear e monitorar as atividades das pessoas, impedindo qualquer tentativa de lutar contra o sistema infocrático.
+2) Problema: O problema computacional abordado é uma busca no espaço de estados junto a um problema de satisfação de restrições. Há um conjunto ded palavras, e dentro desse conjuto há um subconjunto que satisfaz as restrições propostas, e para encontrar esse conjunto, deve ser feito uma busca dentro do cunjunto original.
 
-Texto: Após vencer a Fase 12 e subir de nível na Liga do Pensamento Computacional, você é convocado para enfrentar um novo desafio. A Liga descobriu que uma empresa está desenvolvendo um algoritmo de reconhecimento facial avançado, financiado pelas elites opressoras. Esse algoritmo pode identificar as pessoas mesmo com mudanças significativas em sua aparência e representa uma ameaça à liberdade das pessoas. Cabe a você, como membro da Liga, encontrar uma maneira de impedir que esse algoritmo seja utilizado pelas elites.
+3) Texto: ta no drive
 
-Solução trivial: Uma solução trivial para o problema seria tentar impedir o financiamento da empresa responsável pelo desenvolvimento do algoritmo, pressionando as instituições financeiras e políticas envolvidas. Outra solução seria tentar destruir os servidores que armazenam o algoritmo, o que exigiria uma invasão física ao prédio da empresa.
+4) Solução trivial: fazer um busca por força bruta, testando letra a letra, e verificando se bate com uma das palavras do conjunto, e ao encontrar a palavra, verificar se satisfaz as condições necessarias.
 
-Solução esperta: Uma solução mais eficiente seria desenvolver um algoritmo de camuflagem facial que pudesse ser usado pelas pessoas para evitar serem detectadas pelo algoritmo de reconhecimento facial avançado. Esse algoritmo usaria técnicas de deep learning para aprender a identificar os pontos de interesse no rosto das pessoas e aplicar distorções para confundir o algoritmo de reconhecimento facial. Esse algoritmo poderia ser desenvolvido com a colaboração de outras pessoas na Liga do Pensamento Computacional e seria distribuído gratuitamente para as pessoas em todo o Reino do Politécnico, ajudando a manter sua liberdade e privacidade.
+5) Solução esperta: Verificar os tamanhos das palavras, e separar os conjuntos de palavras que cabem em cada sequencia de espaços.Após isso, fazer uma busca com retocesso, e, a cada conjunto possivelmente valido, testar se ele atende as restrições. 
